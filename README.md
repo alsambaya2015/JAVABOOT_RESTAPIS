@@ -13,9 +13,9 @@ RESTful CRUD Using MySQL and Spring Boot with basic authentication to the REST A
 ### Step 1: 
 Open PhpMyAdmin and create a Database as follows:
 
-     ``` bash
+ ``` bash
      CREATE DATABASE user_api;
-     ``` 
+ ``` 
      
 Tables will be automatically created at the runtime based on your Java entity classes.
      
